@@ -1,20 +1,20 @@
-# kitchen_assistant
-<<<<<<< HEAD
-A Flutter app that helps you manage recipes, discover meals, and assist in cooking.
-=======
+# Kitchen Assistant 🍳
 
-A new Flutter project.
+Kitchen Assistant is a Flutter app that helps users manage recipes, discover meals, and assist in cooking.  
+Think of it as your smart cooking companion right in your pocket!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- 📖 Browse and search recipes  
+- 🥘 Suggest meals based on available ingredients  
+- 🛒 Manage grocery/shopping list  
+- 🎨 Simple and clean Flutter UI  
+- 🌍 Cross-platform (Android, iOS, Web)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 156857f (Initial commit)
+## 🚀 Getting Started
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Arzish29/kitchen_assistant.git
