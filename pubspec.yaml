@@ -1,0 +1,38 @@
+name: ai_recipe_generator
+description: A new Flutter project that generates recipes from images.
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  lottie: ^3.1.2
+  flutter_animate: ^4.5.0
+  
+  # For making API calls
+  http: ^1.2.1
+  
+  # For picking images from gallery or camera
+  
+  image_picker: ^1.1.2
+
+  cupertino_icons: ^1.0.2
+  
+  # For rendering the AI's markdown response beautifully
+  flutter_markdown: ^0.7.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Add this assets section
+  assets:
+    - assets/
